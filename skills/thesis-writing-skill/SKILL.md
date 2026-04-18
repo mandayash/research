@@ -466,7 +466,7 @@ Nama, A. B., & Nama, C. D. (Tahun). Judul artikel. Nama Jurnal, Vol(No), hal-hal
 https://doi.org/[doi-aktif]
 
 Nama, E. F. (Tahun). Judul paper. Dalam Judul Prosiding (hal. xx-xx). 
-https://doi.org/[doi-aktif] atau https://arxiv.org/abs/[id]
+https://doi.org/[doi-aktif] atau https://arxiv.org/abs/[id] (arXiv)
 ```
 
 ---
